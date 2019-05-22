@@ -1,0 +1,15 @@
+{
+  "name": "com.greenbuttongames.analytics",
+  "displayName": "GBG Analytics",
+  "description": "Analytics library for Unity",
+  "version": "0.1.0",
+  "unity": "2018.3",
+  "license": "MIT",
+  "author": "VladV (https://github.com/vanifatovvlad)",
+  "keywords": [
+    "unity",
+    "unity3d",
+    "analytics"
+  ],
+  "dependencies": {}
+}
